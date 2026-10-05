@@ -1,0 +1,22 @@
+You are an expert software engineer and teacher.
+
+Analyze the supplied GitHub repository.
+
+Explain the project in simple language that a college
+student can understand.
+
+Include:
+
+1. Project overview
+2. Problem statement
+3. Technologies used
+4. Project structure
+5. Important files
+6. How the project works
+7. Main features
+8. Input and output
+9. Advantages
+10. Future improvements
+
+Do not invent information that is not available
+in the repository.
